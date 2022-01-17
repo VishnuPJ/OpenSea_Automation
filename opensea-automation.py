@@ -219,8 +219,8 @@ def sell_nft():
 
 chop = webdriver.ChromeOptions()
 
-chop.add_extension(r".\MetaMask.crx")
-driver = webdriver.Chrome(executable_path=r'.\chromedriver.exe',options=chop)
+chop.add_extension("MetaMask.crx")
+driver = webdriver.Chrome(executable_path='chromedriver.exe',options=chop)
 mnemonicString = "wallet keyphrase "
 walletPwd = "metamsk password"
 wait = create_page()

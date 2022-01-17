@@ -10,3 +10,5 @@ This code by default mints in "Polygon" blockchain. Modify the code accordingly 
 Also modify the "properties" of NFT accordingly.
 
 Put the images/gifs to be uploaded in "images" folder.
+
+Also check my NFT collection https://opensea.io/collection/bad-mouthing-punks-v1 
